@@ -12,17 +12,17 @@ I built this application in order to have an easier and deeper understanding of 
 
 ## Demo Image
 
-<img src="https://drive.google.com/uc?id=1bhSpjB3iU7jpNk3ckEeYwo5zzc2sf5ZE"
+<img src="./Images/python%20algo%201.png"
      alt="sample image"
      style="display: block; margin-right: auto; margin-left: auto; width: 90%;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" />
 
-<img src="https://drive.google.com/uc?id=1O1tZcLVH5VVAJZLU5LiRNUpV1crfrRhT"
+<img src="./Images/python%20algo%202.png"
      alt="sample image"
      style="display: block; margin-right: auto; margin-left: auto; width: 90%;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" />
 
-<img src="https://drive.google.com/uc?id=1ryvy17i3E6R46w13jusdB_NftSMoMOgV"
+<img src="./Images/python%20algo%203.png"
      alt="sample image"
      style="display: block; margin-right: auto; margin-left: auto; width: 90%;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" />
